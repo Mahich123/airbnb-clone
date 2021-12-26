@@ -2,9 +2,9 @@ import Head from 'next/head'
 import Banner from '../Components/Banner'
 import Header from '../Components/Header'
 import SmallCards from '../Components/SmallCards'
-import MediumCards from '../components/MediumCards'
-import LargeCard from '../components/LargeCard'
-import Footer from '../components/Footer'
+import MediumCards from '../Components/MediumCards'
+import LargeCard from '../Components/LargeCard'
+import Footer from '../Components/Footer'
 
 export default function Home({gettingData,cardData}) {
   return (
